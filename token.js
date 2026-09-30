@@ -1,3 +1,3 @@
 module.exports = {
-  BOT_TOKEN: '8925008854:AAH23m6SXpWzmvyJKkhybotV0XRKJM0DHwc,  
+  BOT_TOKEN: '8806901381:AAEqIAEjw_QtBwSozuv7GD4Mjb6y6FCpL6w'
 };
